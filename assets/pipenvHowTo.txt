@@ -1,0 +1,6 @@
+go to your powershell and in the power shell: the following
+
+pip install pipenv -- install pipenv
+pip freeze -- list of all your dependencies
+pipenv shell -- creating a pipfile for this project and a virtual environment
+pipenv run python
