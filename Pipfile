@@ -14,6 +14,7 @@ scikit-learn = "*"
 wordcloud = "*"
 gensim = "*"
 seaborn = "*"
+ipykernel = "*"
 
 [requires]
 python_version = "3.8"
