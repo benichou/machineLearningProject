@@ -6,6 +6,14 @@ verify_ssl = true
 [dev-packages]
 
 [packages]
+numpy = "*"
+biopython = "*"
+pandas = "*"
+matplotlib = "*"
+scikit-learn = "*"
+wordcloud = "*"
+gensim = "*"
+seaborn = "*"
 
 [requires]
 python_version = "3.8"
