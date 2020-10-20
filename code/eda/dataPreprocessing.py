@@ -45,9 +45,9 @@ def dealing_with_null_values(dataset):
 
 meta_data = dealing_with_null_values(meta_data)
 
+meta_data['abstract'][0]
 
-
-
+# TODO: filter only covid articles
 
 # pca to be put in a different file
 
