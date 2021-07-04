@@ -1,0 +1,4 @@
+cd MyFolder
+7z a -r ../myzip *
+
+7z is of course installed in C and its path added to the path in environment variables

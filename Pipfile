@@ -15,6 +15,13 @@ wordcloud = "*"
 gensim = "*"
 seaborn = "*"
 ipykernel = "*"
+nltk = "*"
+unidecode = "*"
+pyldavis = "*"
+networkx = "*"
+spacy = "*"
+download = "*"
+xgboost = "*"
 
 [requires]
 python_version = "3.8"
